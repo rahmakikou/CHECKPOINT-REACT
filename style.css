@@ -1,0 +1,23 @@
+
+.Navigation {
+   display : flex; 
+   justify-content: space-around;  
+
+}
+.Cards { 
+    display : flex; 
+    justify-content: space-around;
+} 
+
+
+
+.photo {
+  
+    width: 650px;
+    height: 400px; 
+}
+
+.photoP{
+    display: flex;
+    justify-content: space-around;
+}
